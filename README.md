@@ -1,2 +1,3 @@
-# Analise_Dados_Python
-Tutoriais de análise de dados usando Python/Jupyter
+# Ocean Data Anaysis with Python/Jupyter
+
+Tutorials of oceanographic data analysis using Python/Jupyter
